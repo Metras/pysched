@@ -1,0 +1,1 @@
+This project involves, taking raw data and filing it to google calendars for easy graphical viewing. Also a secondary objective is allowing events scheduled in google calendar to control external programs (like scheduling audio recordings). These programs are being constructed for use in radio broadcasting
